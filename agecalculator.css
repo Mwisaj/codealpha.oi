@@ -1,0 +1,37 @@
+h2{
+    text-align: center;
+    margin: 50px;
+}
+body{
+    background-color: c#c694a5a3
+}
+input{
+    border-radius: 5px;
+    border-color: purple;
+    text-align: center;
+    width: 250px;
+    height:25px;
+    margin-top: 50px;
+}
+button{
+    background-color: purple;
+    border-radius: 10px;
+    border-color: purple;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    width: 250px;
+    height:20px;
+}
+body{
+   background-color: #ccc;
+   border-radius: 5px;
+}
+.container{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    height: 200px;
+    width: 300px;
+    margin: auto;
+}
